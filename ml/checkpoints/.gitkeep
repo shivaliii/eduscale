@@ -1,0 +1,4 @@
+# Keep checkpoints directory but ignore contents
+*
+!.gitkeep
+
